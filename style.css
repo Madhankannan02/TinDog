@@ -50,7 +50,8 @@
   background-size: 180% 180%;
   animation: gradient-animation 18s ease infinite;
   margin: 0px;
-  padding: 0px;
+  padding-right:50px;
+  padding-left: 50px;
 }
 .mb-4 {
   margin-bottom: 0;
